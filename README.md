@@ -1,1 +1,1 @@
-# Metodolog-a-Linux
+# Metodología-Linux
