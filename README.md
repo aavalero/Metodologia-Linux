@@ -27,12 +27,19 @@ https://www.offsec.com/metasploit-unleashed/privilege-escalation/
 ## BUENAS PRACTICAS
 
 Reutilizar contraseñas conocidas
+
 Buscar credenciales en directorios poco comunes como /var/www; /tmp; /opt
+
 Revisar servicios y/o programas que corran como root
+
 Buscar archivos que permitan escritura
+
 Revisar el PATH por si es vulnerable
+
 Revisar las versiones de todo
+
 Revisar tareas programadas
+
 Comprobar binarios que puedan ser explotados
 
 ## ENUMERACIÓN AUTOMATIZADA
