@@ -1,8 +1,11 @@
 ## RECURSOS
 General
 [Hacking Épico](https://hackingepico.com/)
+
 [VeryLazyTech Hacking Guide | VeryLazyTech](https://www.verylazytech.com/)
+
 [GitHub - RoqueNight/Linux-Privilege-Escalation-Basics: Simple and accurate guide for linux privilege escalation tactics](https://github.com/RoqueNight/Linux-Privilege-Escalation-Basics)
+
 https://github.com/gurkylee/Linux-Privilege-Escalation-Basics
 
 Binarios vulnerables
